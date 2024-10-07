@@ -12,9 +12,10 @@ const SideBar = () => (
         <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
       </Link>
       <header>
-        <h2>Michael D&apos;Angelo</h2>
+        <h2>Yifan Wang</h2>
         <p>
-          <a href="mailto:michael@mldangelo.com">michael@mldangelo.com</a>
+          {/* Add your email here to replace ________ */}
+          <a href="mailto:_______">___________</a>
         </p>
       </header>
     </section>
@@ -22,13 +23,14 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>
-        Hi, I&apos;m Michael. I am a{' '}
-        <a href="https://icme.stanford.edu/">Stanford ICME</a> graduate, YC
+        Hi, I&apos;m Yifan Wang. I am a{' '}
+        {/* TODO: add your past accomplishments, links to your institutions; examples as below */}
+        {/* <a href="https://icme.stanford.edu/">Stanford ICME</a> graduate, YC
         alumnus, and the co-founder and CTO of{' '}
         <a href="https://promptfoo.dev">Promptfoo</a>. Previously, I
         was VP of Engineering at <a href="https://usesmileid.com">SmileID</a>,
         co-founder and CTO of <a href="https://arthena.com">Arthena</a>, and
-        co-founded <a href="https://matroid.com">Matroid</a>.
+        co-founded <a href="https://matroid.com">Matroid</a>. */}
       </p>
       <ul className="actions">
         <li>
@@ -48,7 +50,7 @@ const SideBar = () => (
     <section id="footer">
       <ContactIcons />
       <p className="copyright">
-        &copy; Michael D&apos;Angelo <Link to="/">mldangelo.com</Link>.
+        &copy; Yifan Wang <Link to="/">warmbearmira.com</Link>.
       </p>
     </section>
   </section>

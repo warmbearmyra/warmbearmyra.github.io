@@ -5,9 +5,10 @@ import Main from '../layouts/Main';
 
 const Index = () => (
   <Main
+    // TODO: Add your one-liner here
     description={
-      "Michael D'Angelo's personal website. New York based Stanford ICME graduate, "
-      + 'VP of Engineering at Smile Identity, co-founder of Arthena and Matroid, and YC Alumni.'
+      "Yifan Wang's personal website. California based Harvard graduate, "
+      + 'Therapeutic Coach....'
     }
   >
     <article className="post" id="index">
@@ -17,8 +18,8 @@ const Index = () => (
             <Link to="/">About this site</Link>
           </h2>
           <p>
-            A beautiful, responsive, statically-generated, react application
-            written with modern Javascript.
+            {/* Add your site description here. */}
+            ________________.
           </p>
         </div>
       </header>
@@ -31,9 +32,9 @@ const Index = () => (
         <Link to="/contact">contact</Link> me.
       </p>
       <p>
-        {' '}
+        {/* {' '}
         Source available{' '}
-        <a href="https://github.com/mldangelo/personal-site">here</a>.
+        <a href="https://github.com/mldangelo/personal-site">here</a>. */}
       </p>
     </article>
   </Main>
