@@ -1,3 +1,22 @@
+
+# Ping's Instructions
+Buy your domain:
+https://www.whois.com/whois/warmbearmyra.com
+
+Open-source personal website template:
+https://github.com/mldangelo/personal-site
+
+The personal example looks like this:
+https://mldangelo.com/
+
+Recommended editor: Visual Studio Code
+
+Some suggested modifications are marked by Ping with TODO, search by this keyword
+
+You may also use the keywords you see from this example to search for the section that you want to change, following Adapting-guide.md
+
+
+# Other Instruction by the Original Author
 # Personal Website
 
 Welcome to my [personal website](https://mldangelo.com)! This is an [MIT licensed](https://github.com/mldangelo/personal-site/blob/main/LICENSE) React-based Jamstack application. It offers a simple interface, easy modifications, static export capabilities, and free automatic deployments via [GitHub Pages](https://pages.github.com/).

@@ -14,7 +14,7 @@ const SideBar = () => (
       <header>
         <h2>Yifan Wang</h2>
         <p>
-          {/* Add your email here to replace ________ */}
+          {/* TODO: Add your email here to replace ________ */}
           <a href="mailto:_______">___________</a>
         </p>
       </header>
@@ -50,7 +50,7 @@ const SideBar = () => (
     <section id="footer">
       <ContactIcons />
       <p className="copyright">
-        &copy; Yifan Wang <Link to="/">warmbearmira.com</Link>.
+        &copy; Yifan Wang <Link to="/">warmbearmyra.com</Link>.
       </p>
     </section>
   </section>
