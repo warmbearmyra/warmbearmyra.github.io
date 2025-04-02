@@ -9,11 +9,11 @@
     <lastBuildDate>Wed, 02 Apr 2025 12:35:35 -0700</lastBuildDate>
     <atom:link href="warmbearmyra.github.io/my-hugo-site/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
+      <title>First Post of Warmbear</title>
       <link>warmbearmyra.github.io/my-hugo-site/posts/my-first-post/</link>
       <pubDate>Wed, 02 Apr 2025 12:35:35 -0700</pubDate>
       <guid>warmbearmyra.github.io/my-hugo-site/posts/my-first-post/</guid>
-      <description>&lt;h1 id=&#34;welcome-to-my-hugo-website&#34;&gt;Welcome to my Hugo website!&lt;/h1&gt;&#xA;&lt;p&gt;This is my first post using &lt;strong&gt;Hugo&lt;/strong&gt;. It&amp;rsquo;s super fast and easy to use.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;welcome-to-warmbears-hugo-website&#34;&gt;Welcome to Warmbear&amp;rsquo;s Hugo website!&lt;/h1&gt;&#xA;&lt;p&gt;This is my first post using &lt;strong&gt;Hugo&lt;/strong&gt;. It&amp;rsquo;s super fast and easy to use.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
