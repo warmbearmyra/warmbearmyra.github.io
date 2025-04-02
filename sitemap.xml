@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://github.com/warmbearmyra/warmbearmyra.github.io/my-hugo-site/</loc>
+    <loc>warmbearmyra.github.io/my-hugo-site/</loc>
     <lastmod>2025-04-02T12:35:35-07:00</lastmod>
   </url><url>
-    <loc>https://github.com/warmbearmyra/warmbearmyra.github.io/my-hugo-site/posts/</loc>
+    <loc>warmbearmyra.github.io/my-hugo-site/posts/</loc>
     <lastmod>2025-04-02T12:35:35-07:00</lastmod>
   </url><url>
-    <loc>https://github.com/warmbearmyra/warmbearmyra.github.io/my-hugo-site/categories/</loc>
+    <loc>warmbearmyra.github.io/my-hugo-site/categories/</loc>
   </url><url>
-    <loc>https://github.com/warmbearmyra/warmbearmyra.github.io/my-hugo-site/tags/</loc>
+    <loc>warmbearmyra.github.io/my-hugo-site/tags/</loc>
   </url>
 </urlset>
