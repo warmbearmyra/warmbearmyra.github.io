@@ -2,11 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>warmbearmyra.github.io/my-hugo-site/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="warmbearmyra.github.io/my-hugo-site/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Apr 2025 12:35:35 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Wed, 02 Apr 2025 12:35:35 -0700</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;welcome-to-my-hugo-website&#34;&gt;Welcome to my Hugo website!&lt;/h1&gt;&#xA;&lt;p&gt;This is my first post using &lt;strong&gt;Hugo&lt;/strong&gt;. It&amp;rsquo;s super fast and easy to use.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
