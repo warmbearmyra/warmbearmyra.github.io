@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>warmbearmyra.github.io/my-hugo-site/posts/my-first-post/</loc>
+    <loc>warmbearmyra.github.io/posts/my-first-post/</loc>
     <lastmod>2025-04-02T12:35:35-07:00</lastmod>
   </url><url>
-    <loc>warmbearmyra.github.io/my-hugo-site/</loc>
+    <loc>warmbearmyra.github.io/</loc>
     <lastmod>2025-04-02T12:35:35-07:00</lastmod>
   </url><url>
-    <loc>warmbearmyra.github.io/my-hugo-site/posts/</loc>
+    <loc>warmbearmyra.github.io/posts/</loc>
     <lastmod>2025-04-02T12:35:35-07:00</lastmod>
   </url><url>
-    <loc>warmbearmyra.github.io/my-hugo-site/categories/</loc>
+    <loc>warmbearmyra.github.io/categories/</loc>
   </url><url>
-    <loc>warmbearmyra.github.io/my-hugo-site/tags/</loc>
+    <loc>warmbearmyra.github.io/tags/</loc>
   </url>
 </urlset>
